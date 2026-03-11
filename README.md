@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Revenue Forecasting](https://github.com/akhil97/Revenue-Forecast-for-media-company)
 
-- 🌱 I’m currently learning **Apache Spark, SQL, LLMs**
+- 🌱 I’m currently learning **Apache Cassandra, Apache Spark, DataBricks, SQL, LLMs**
 
 - 👯 I’m looking to collaborate on [Geospatial Data Pipeline Processing](https://github.com/akhil97/Capstone-Group1)
 
